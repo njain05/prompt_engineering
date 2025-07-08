@@ -1,4 +1,4 @@
-# 📘 Day 04: 03rd July 2025
+# 📘 Day 04
 
 ## ✅ Topic Covered
 Working with APIs, BeautifulSoup, and Website Summarization Project
