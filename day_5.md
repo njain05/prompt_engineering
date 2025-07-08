@@ -1,4 +1,4 @@
-# 📘 Day 05: 04th July 2025
+# 📘 Day 05
 
 ## ✅ Topic Covered
 Image Generation with GenAI, Metadata, File Types, and Hugging Face API
